@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors Game
 
+![Rock-Paper-Scissors](rockpaperscissors.jpg)
+
 Rock-Paper-Scissors is a simple console-based game implemented in Python using Flask. Players can enter their choice (rock, paper, or scissors), and the computer randomly selects its choice. The game then determines the winner based on the rules of Rock-Paper-Scissors.
 
 ## Setup and Running the Game
