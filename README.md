@@ -33,10 +33,6 @@ Rock-Paper-Scissors is a simple console-based game implemented in Python using F
 3. The game determines the winner based on the choices made.
 4. The result is displayed on the console.
 
-## Contributing
-
-Feel free to contribute to the project by suggesting improvements, reporting issues, or submitting pull requests.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
